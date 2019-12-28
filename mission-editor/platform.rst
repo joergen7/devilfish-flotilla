@@ -5,7 +5,7 @@ Platforms
   :maxdepth: 1
   :caption: Submersible
 
-  seawolf/index
+  seawolf-ssn/index
 
 
 

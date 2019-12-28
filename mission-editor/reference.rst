@@ -6,7 +6,8 @@ Reference
   :caption: Content
 
   platform
-  weapon
+  deployable
   tactic
   trigger
+  doctrine
   script

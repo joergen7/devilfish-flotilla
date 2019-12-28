@@ -1,4 +1,4 @@
 Tactics
 =======
 
-Tactics determine the behavior of AI-controlled platforms. They are mission briefings for the computer. There are two kinds of tactics: `platform tactics` and `waypoint tactics`. The platform tactic determines how a ship or airframe behaves on a grand scale.
+A `platform tactic` determines how a platform behaves when the AI controls it. When a platform tactic has waypoints, each waypoint can have an additional `waypoint tactic` which determines how a platform behaves when it reaches a waypoint. The platform pursues the waypoint tactic for a defined time before it resumes the platform tactic.
