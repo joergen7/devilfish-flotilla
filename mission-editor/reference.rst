@@ -9,5 +9,4 @@ Reference
   deployable
   tactic
   trigger
-  doctrine
   script
