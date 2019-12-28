@@ -11,7 +11,7 @@ To apply as a member send an email to `joergen.brandt@onlinehome.de <mailto:joer
 
   Experience:
 
-  [Previous subsim experience]
+  [Previous multiplayer subsim experience]
 
   Reason to Join:
 
