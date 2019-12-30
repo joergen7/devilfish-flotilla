@@ -78,12 +78,12 @@ Attached Goal Triggers
 
 Next, we define when the scenario concludes successfully for each controllable platform.
 
-First, we need to express that the Albany wins when it kills the Gepard. Right-click on the Gepard and select ``Add Attached Trigger``. Place the trigger somewhere on the map chart. Now, set the trigger properties as follows:
+First, we need to express that the Albany wins when it kills the Gepard. Right-click on the Albany and select ``Add Attached Trigger``. Place the trigger somewhere on the map chart. Now, set the trigger properties as follows:
 
 =================== ===============
 Key                 Value
 =================== ===============
-Apply Trigger To    SSN 753
+Apply Trigger To    K 335
 Trigger Name        T01
 Trigger Type        Goal Trigger
 Trigger Activation  Kill
