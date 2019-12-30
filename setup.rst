@@ -33,7 +33,7 @@ You can reopen the mod selection dialog by running the executable ``JSGME.exe`` 
 Multiplayer with Hamachi
 ------------------------
 
-To play Dangerous Waters in multiplayer, we use a Virtual Private Network (VPN). `Hamachi <https://vpn.net/>`_ allows to set up a VPN on Windows. Install Hamachi and create an account. Hamachi creates a virtual network adapter that allows access to a simulated Local Area Network (LAN). By default, Dangerous Waters uses the first network adapter it finds to host and find multiplayer sessions which is not the Hamachi network adapter.
+To play Dangerous Waters in multiplayer use a Virtual Private Network (VPN). `Hamachi <https://vpn.net/>`_ allows to set up a VPN on Windows. Install Hamachi and create an account. Hamachi creates a virtual network adapter that allows access to a simulated Local Area Network (LAN). By default, Dangerous Waters uses the first network adapter it finds to host and find multiplayer sessions which is not the Hamachi network adapter.
 
 Edit the file ``dangerouswaters.ini`` located in the game folder. In the ``[MultiPlayer]`` section on line 167 find the entry ``.AdapterName`` which defaults to ``"IPv4"``. Set it to ``"Hamachi - IPv4"``.
 
