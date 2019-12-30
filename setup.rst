@@ -28,7 +28,7 @@ LuftWolf and Amizaur (LwAmi)'s weapons and sensors realism mod increases the rea
 
 Download the mod from `subguru.com <http://subguru.com/downloads.html>`_. The download link exposes the archive ``LWAMI_208_Full.zip``. Extract it using a decompression program like `7-Zip <https://www.7-zip.org/>`_. The archive contains three files, among them the executable ``LwAmi_308_Full.exe``. When you run the executable the installer asks for the location of the game files. After the installation finishes a dialog opens where you can select the mods to activate. You need only ``LwAmi_Mod``. All other components are cosmetic.
 
-You can reopen the mod selection menu by running the executable ``JSGME.exe`` that the installer creates in the game directory.
+You can reopen the mod selection dialog by running the executable ``JSGME.exe`` that the installer creates in the game directory.
 
 Multiplayer with Hamachi
 ------------------------
