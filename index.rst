@@ -1,22 +1,17 @@
 Devilfish Flotilla
 ==================
 
-The Devilfish Flotilla is a Dangerous Waters unit in the making. I plan to make a 3 hours event every two weeks.
+Devilfish Flotilla is a documentation site about Dangerous Waters.
 
 .. toctree::
   :hidden:
 
   about
-  apply
-  events
   links
-  members
+  platform/index
+  deployable/index
+  sensor/index
   mission-editor/index
   scenarios
   setup
-
-Upcoming Event
---------------
-
-None
 
