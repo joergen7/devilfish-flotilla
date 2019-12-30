@@ -1,7 +1,7 @@
 Devilfish Flotilla
 ==================
 
-Devilfish Flotilla is a documentation site about Dangerous Waters.
+Devilfish Flotilla is a Dangerous Waters documentation site.
 
 .. toctree::
   :hidden:

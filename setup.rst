@@ -12,12 +12,12 @@ Windows 8/10 Compatibility
 
 Out of the box, Dangerous Waters crashes on current Windows versions.
 
-`subsim.com <https://www.subsim.com/radioroom/showthread.php?t=223629>`_ provides a fix to this problem. The download link on this page contains a file ``d3d8.dll``. Copy it to your game folder.
+`subsim.com <https://www.subsim.com/radioroom/showthread.php?t=223629>`_ provides a fix to this problem. The download link on this page exposes the archive ``dangw_d3d8_0_02.rar``. Extract it using a decompression program like `7-Zip <https://www.7-zip.org/>`_. The archive contains a single file ``d3d8.dll``. Copy it to your game folder.
 
 Resolution
 ----------
 
-By default, Dangerous Waters is set to an 800x600 resolution although 1250x1024 is the highest possible resolution. It is impossible to set the resolution in-game since the game crashes when you try.
+By default, Dangerous Waters is set to an 800x600 resolution although 1280x1024 is the highest possible resolution. It is impossible to set the resolution in-game since the game crashes when you try.
 
 Edit the file ``dangerouswaters.ini`` located in the game folder. In the ``[Graphics]`` section on line 27 find the entry ``.ModeID`` which defaults to ``1`` by default. Set it to ``3``.
 
@@ -26,7 +26,7 @@ LwAmi Mod
 
 LuftWolf and Amizaur (LwAmi)'s weapons and sensors realism mod increases the realism of Dangerous Waters.
 
-Download the mod from `subguru.com <http://subguru.com/downloads.html>`_. The archive contains an executable ``LwAmi_308_Full.exe``. When you run it the installer asks for the location of the game files. After the installation finishes a dialog opens where you can select the mods to activate. You need only ``LwAmi_Mod``. All other components are cosmetic.
+Download the mod from `subguru.com <http://subguru.com/downloads.html>`_. The download link exposes the archive ``LWAMI_208_Full.zip``. Extract it using a decompression program like `7-Zip <https://www.7-zip.org/>`_. The archive contains three files, among them the executable ``LwAmi_308_Full.exe``. When you run the executable the installer asks for the location of the game files. After the installation finishes a dialog opens where you can select the mods to activate. You need only ``LwAmi_Mod``. All other components are cosmetic.
 
 You can reopen the mod selection menu by running the executable ``JSGME.exe`` that the installer creates in the game directory.
 
