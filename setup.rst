@@ -37,3 +37,19 @@ To play Dangerous Waters in multiplayer use a Virtual Private Network (VPN). `Ha
 
 Edit the file ``dangerouswaters.ini`` located in the game folder. In the ``[MultiPlayer]`` section on line 167 find the entry ``.AdapterName`` which defaults to ``"IPv4"``. Set it to ``"Hamachi - IPv4"``.
 
+In-Game Options
+---------------
+
+We alter the options based on the Defaults (Advanced) preset.
+
+Game
+^^^^
+
+- Map Scroll Speed: Off
+- Map Zoom Levels: 20
+
+Multiplayer
+^^^^^^^^^^^
+
+- Disable 3D: Off
+- Display Direct Connect Dialog: Off
