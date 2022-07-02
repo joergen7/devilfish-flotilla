@@ -19,7 +19,7 @@ Resolution
 
 By default, Dangerous Waters is set to an 800x600 resolution although 1280x1024 is the highest possible resolution. It is impossible to set the resolution in-game since the game crashes when you try.
 
-Edit the file ``dangerouswaters.ini`` located in the game folder. In the ``[Graphics]`` section on line 27 find the entry ``.ModeID`` which defaults to ``1`` by default. Set it to ``3``.
+Edit the file ``dangerouswaters.ini`` located in the game folder. In the ``[Graphics]`` section on line 27 find the entry ``.ModeID`` which is ``1`` by default. Set it to ``3``.
 
 LwAmi Mod
 ---------

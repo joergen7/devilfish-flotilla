@@ -1,17 +1,16 @@
 Devilfish Flotilla
 ==================
 
-Devilfish Flotilla is a Dangerous Waters documentation site.
+Devilfish Flotilla is a documentation site for various games:
+
+- Dangerous Waters
+- Gary Grigsby's War in the East 2
 
 .. toctree::
-  :hidden:
+   :hidden:
 
-  about
-  links
-  platform/index
-  deployable/index
-  sensor/index
-  mission-editor/index
-  scenarios
-  setup
+   about
+   dw/index
+   wite2/index
+
 
