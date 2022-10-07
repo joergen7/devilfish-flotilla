@@ -68,12 +68,14 @@ CMDS
   - ensure PROGRAM knob is set to 1
   - set MODE knob to MAN
 
-Taxi
-----
-
 EXT LIGHTING
   - set FLASH STEADY switch to FLASH
 
+
+Taxi
+----
+
+- TAXI LANDING LIGHTS switch to TAXI
 - enable nose wheel steering
 - taxi
 
@@ -84,11 +86,14 @@ IFF
   - set IFF MASTER knob to NORM
 
 SNSR PWR
-  - set RDR ALT switch to ON
+  - set RDR ALT switch to RDR ALT
 
 AVIONICS POWER
   - wait until the DED shows a flashing RDY in the INS line
   - set INS knob to NAV
+
+EXT LIGHTING
+  - set ANTI-COLL knob to OFF
 
 - close canopy (``lctl-C`` by default)
 - set canopy handle (yellow spider) to DOWN
@@ -99,12 +104,19 @@ AVIONICS POWER
 - deactivate nose wheel steering
 - lift off
 - retract landing gear
+- set TAXI LANDING LIGHTS switch to OFF
 
 Land
 ----
 
 - extract landing gear
+- set TAXI LANDING LIGHTS switch to LANDING
 - land
+
+EXT LIGHTING
+  - set ANTI-COLL knob to 1
+
+
 
 Radar Warning Receiver
 ----------------------
