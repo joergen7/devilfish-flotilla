@@ -77,10 +77,15 @@ Taxi
 
 - TAXI LANDING LIGHTS switch to TAXI
 - enable nose wheel steering
+
+"Kutaisi traffic, Uzi 9-1, taxi runway 07."
+
 - taxi
 
 Take Off
 --------
+
+"Kutaisi control, Uzi 9-1, take off runway 07."
 
 IFF
   - set IFF MASTER knob to NORM
@@ -109,13 +114,19 @@ EXT LIGHTING
 Land
 ----
 
+"Kutaisi control, Uzi 9-1, landing runway 07."
+
 - extract landing gear
 - set TAXI LANDING LIGHTS switch to LANDING
+
+"Kutaisi control, Uzi 9-1, on finals."
+
 - land
 
 EXT LIGHTING
   - set ANTI-COLL knob to 1
 
+"Kutaisi control, Uzi 9-1, runway 07 clear."
 
 
 Radar Warning Receiver
