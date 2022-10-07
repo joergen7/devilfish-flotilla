@@ -7,6 +7,10 @@ Engine Start
 .. NOTE::
    Unlike other airframes the Viper needs no ground power to spool up.
 
+EXT LIGHTING
+  - set FLASH STEADY switch to STEADY
+  - set WING/TAIL switch to BRT
+   
 FUEL
   - ensure ENGINE FEED knob is set to NORM
 
@@ -64,12 +68,14 @@ CMDS
   - ensure PROGRAM knob is set to 1
   - set MODE knob to MAN
 
-AVIONICS POWER
-  - wait until the DED shows a flashing RDY in the INS line
-  - set INS knob to NAV
-
 Taxi
 ----
+
+EXT LIGHTING
+  - set FLASH STEADY switch to FLASH
+
+- enable nose wheel steering
+- taxi
 
 Take Off
 --------
@@ -80,13 +86,25 @@ IFF
 SNSR PWR
   - set RDR ALT switch to ON
 
+AVIONICS POWER
+  - wait until the DED shows a flashing RDY in the INS line
+  - set INS knob to NAV
 
 - close canopy (``lctl-C`` by default)
 - set canopy handle (yellow spider) to DOWN
-- set ejection safety lever to armed
+- set ejection safety lever to ARMED
+
+- ensure speed brake is retracted
+- go full throttle
+- deactivate nose wheel steering
+- lift off
+- retract landing gear
 
 Land
 ----
+
+- extract landing gear
+- land
 
 Radar Warning Receiver
 ----------------------
