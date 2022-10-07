@@ -7,7 +7,7 @@
 
 ## Virtual Environment
 
-In the `testframework2020` directory run
+In the `devilfish-flotilla` directory run
 
     virtualenv venv
 
@@ -23,3 +23,8 @@ To leave the virtual environment run
 
     deactivate
 
+## Build
+
+In the virtual environment run:
+
+    make html
