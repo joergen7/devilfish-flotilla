@@ -7,5 +7,5 @@ DCS World
    sabre
    skyhawk
    huey
-   navigation
    viper
+   navigation
