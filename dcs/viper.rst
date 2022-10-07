@@ -26,7 +26,7 @@ Throttle
    You can switch the trottle from IDLE back to the OFF position by pressing ``rshift-end``.
 
 .. HINT::
-   You can get rid of the ELEC SYS warning by pressing the CAUTION RESET button in the ELEC panel.
+   You can get rid of the ELEC SYS warning on the caution pannel by pressing the CAUTION RESET button in the ELEC panel.
 
 
 System Start
@@ -61,8 +61,8 @@ CMDS
   - set JMR source switch to ON
   - set CH expendable category switch to ON
   - set FL expendable category switch to ON
-  - ensure PROGRAM knob is not BIT
-  - set MODE knob to at least MAN
+  - ensure PROGRAM knob is set to 1
+  - set MODE knob to MAN
 
 AVIONICS POWER
   - wait until the DED shows a flashing RDY in the INS line
@@ -73,6 +73,13 @@ Taxi
 
 Take Off
 --------
+
+IFF
+  - set IFF MASTER knob to NORM
+
+SNSR PWR
+  - set RDR ALT switch to ON
+
 
 - close canopy (``lctl-C`` by default)
 - set canopy handle (yellow spider) to DOWN
@@ -101,7 +108,7 @@ land      OFF       FLASH        BRT       LAND
 
 .. image:: img/light_discipline.png
    :width: 602
-   :height: 781
+   :height: 801
    :alt: light discipline state graph
 
 

@@ -1,20 +1,20 @@
 digraph G {
 
-park    [shape=box, label="park\nanti-coll: 1\nwing/tail: OFF\nflash steady: STEADY\nlanding taxi lights: OFF"];
+park    [shape=box, label="park\nanti-coll: 1\nflash steady: FLASH\nwing/tail: OFF\nlanding taxi lights: OFF"];
 hold    [shape=box];
 taxi    [shape=box];
 takeoff [shape=box];
 combat  [shape=box];
 land    [shape=box];
 
-park    -> hold    [label="wing/tail: BRT"];
+park    -> hold    [label="flash steady: STEADY\nwing/tail: BRT"];
 hold    -> taxi    [label="flash steady: FLASH\nlanding taxi lights: TAXI"];
 taxi    -> takeoff [label="anti-coll: OFF"];
 takeoff -> combat  [label="fence-in\nwing/tail: OFF\nlanding taxi lights: OFF"];
 combat  -> land    [label="wing/tail: BRT\nlanding taxi lights: LANDING"];
 land    -> taxi    [label="anti-coll: 1\nlanding taxi lights: TAXI"];
 taxi    -> hold    [label="flash steady: STEADY\nlanding taxi lights: OFF"];
-hold    -> park    [label="wing/tail: OFF"];
+hold    -> park    [label="flash steady: FLASH\nwing/tail: OFF"];
 
 
 }
