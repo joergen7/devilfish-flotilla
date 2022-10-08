@@ -68,6 +68,10 @@ CMDS
   - ensure PROGRAM knob is set to 1
   - set MODE knob to MAN
 
+AVIONICS POWER
+  - wait until the DED shows a flashing RDY in the INS line
+  - set INS knob to NAV
+
 EXT LIGHTING
   - set FLASH STEADY switch to FLASH
 
@@ -92,10 +96,6 @@ IFF
 
 SNSR PWR
   - set RDR ALT switch to RDR ALT
-
-AVIONICS POWER
-  - wait until the DED shows a flashing RDY in the INS line
-  - set INS knob to NAV
 
 EXT LIGHTING
   - set ANTI-COLL knob to OFF
