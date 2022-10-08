@@ -168,11 +168,20 @@ Air-to-Air Refueling
 Glossary
 --------
 
+ACM
+  Air Combat Mode. FCR main mode for ranges within 10nm.
+
 ADI
   Attitude Direction Indicator. Artificial horizon.
 
+CRM
+  Combined Radar Mode. FCR main mode for ranges beyond 10nm.
+
 DED
   Data Entry Display. Part of the UFC.
+
+FCR
+  Fire Control Radar. FCR has two main modes: CRM and ACM.
 
 FTIT
   Fan Turbine Inlet Temperature.
@@ -204,6 +213,15 @@ RPM
 RWR
   Radar Warning Receiver.
 
+RWS
+  Range-While-Search. Radar mode of operation under CRM.
+
+SOI
+  Sensor Of Interest.
+
+TWS
+  Track-While-Scan. Radar mode of operation under CRM.
+  
 UFC
   Up-Front Control. The UFC comprises the ICP, DED, and HUD.
 
