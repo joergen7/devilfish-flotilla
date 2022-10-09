@@ -216,8 +216,14 @@ RWR
 RWS
   Range-While-Search. Radar mode of operation under CRM.
 
+SAM
+  Situational Awareness Mode.
+  
 SOI
   Sensor Of Interest.
+
+STT
+  Single Target Track.
 
 TWS
   Track-While-Scan. Radar mode of operation under CRM.
