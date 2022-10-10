@@ -157,9 +157,9 @@ Radio
 -----
 
 .. CAUTION::
-   Make sure the C&I knob on the IFF panel needs to be set to UFC.
+   Make sure the C&I knob on the IFF panel is set to UFC.
 
-- press COM 1 (or COM 2) on the ICP
+- press COM 1 (COM 2) on the ICP
 
 This brings up the UHF (VHF) page on the DED.
 
