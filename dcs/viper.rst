@@ -26,6 +26,9 @@ Throttle
   - make sure the FTIT does not exceed 900°C
   - wait for the RPM to reach 65%, the FTIT to settle at 400°C, and the oil pressure to settle at 27 psi
 
+Front Panel
+  - turn SAI Cage knob until the artificial horizon is uncaged and calibrated
+
 .. HINT::
    You can switch the trottle from IDLE back to the OFF position by pressing ``rshift-end``.
 
@@ -43,8 +46,8 @@ AVIONICS POWER
   - set UFC switch to UFC
   - set GPS switch to GPS
   - set DL switch to DL
-  - wait for the DED to come online
   - set INS knob to NORM
+  - set MIDS LVT to ON
 
 SNSR PWR
   - set FCR switch to FCR
@@ -114,7 +117,7 @@ EXT LIGHTING
 Land
 ----
 
-"Kutaisi control, Uzi 9-1, landing runway 07."
+"Kutaisi control, Uzi 9-1, coming in runway 07."
 
 - extract landing gear
 - set TAXI LANDING LIGHTS switch to LANDING
@@ -128,9 +131,6 @@ EXT LIGHTING
 
 "Kutaisi control, Uzi 9-1, runway 07 clear."
 
-
-Radar Warning Receiver
-----------------------
 
 Light Discipline
 ----------------
@@ -156,14 +156,48 @@ land      OFF       FLASH        BRT       LAND
 Radio
 -----
 
+.. CAUTION::
+   Make sure the C&I knob on the IFF panel needs to be set to UFC.
+
+- press COM 1 (or COM 2) on the ICP
+
+This brings up the UHF (VHF) page on the DED.
+
+- in the scratch pad enter the frequency using the number buttons on the ICP
+- press ICP Enter button
+
+TACAN
+-----
+
+.. CAUTION::
+   Make sure the MIDS LVT knob is set to ON.
+
+- press 1 on the ICP to bring up the T-ILS page
+- press ICP DCS SEQ until the DED reads TCN T/R
+- press ICP Data Control Switch DOWN to select the TACAN channel
+- press ICP Enter button
+- press the Mode button on the HSI until it reads TCN
+
+Air-to-Air Refueling
+--------------------
+
+- enter the TACAN receiver of the fuel plane
+- enter the radio frequency of the fuel plane
+- call "Intent to refuel"
+- once under the fuel plane, call "Ready precontact"
+- fly steady under the fuel plane
+- the fuel plane calls you "You're taking fuel"
+- the fuel plane calls you "Transfer complete"
+
 Navigation
 ----------
 
 Instrument Landing System
 -------------------------
 
-Air-to-Air Refueling
---------------------
+
+Radar Warning Receiver
+----------------------
 
 Glossary
 --------
