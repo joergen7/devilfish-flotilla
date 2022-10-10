@@ -192,6 +192,9 @@ Air-to-Air Refueling
 .. HINT::
    While refueling I find the HUD distracting and, thus, turn it off.
 
+Fire Control Radar
+------------------
+   
 Navigation
 ----------
 
