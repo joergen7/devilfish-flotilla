@@ -189,6 +189,9 @@ Air-to-Air Refueling
 - the fuel plane calls you "You're taking fuel"
 - the fuel plane calls you "Transfer complete"
 
+.. HINT::
+   While refueling I find the HUD distracting and, thus, turn it off.
+
 Navigation
 ----------
 
