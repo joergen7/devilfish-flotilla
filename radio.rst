@@ -4,6 +4,12 @@ Radio
 A4-E Skyhawk
 ------------
 
+.. figure:: img/skyhawk_uhf_panel.jpg
+   :width: 50%
+   :alt: A4-E Skyhawk UHF panel
+		 
+   A4-E Skyhawk UHF panel (right leg)
+
 F-16 Viper
 ----------
 

@@ -14,7 +14,7 @@ combat    OFF                    OFF       OFF
 land      OFF       FLASH        BRT       LAND
 ========= ========= ============ ========= ===================
 
-.. image:: img/light_discipline.png
+.. image:: img/light_discipline_state_graph.png
    :width: 602
    :height: 801
    :alt: light discipline state graph
