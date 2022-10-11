@@ -1,13 +1,17 @@
-Devilfish Flotilla
-==================
-
-Devilfish Flotilla is a documentation site for various games.
+DCS World
+=========
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
+   light
+   navigation
+   radio
+   refuel
+   huey
+   sabre
+   skyhawk
+   viper
+   glossary
    about
-   dw/index
-   dcs/index
-
-
+   

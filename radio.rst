@@ -1,0 +1,20 @@
+Radio
+=====
+
+A4-E Skyhawk
+------------
+
+F-16 Viper
+----------
+
+.. CAUTION::
+   Make sure the C&I knob on the IFF panel is set to UFC.
+
+- press COM 1 (COM 2) on the ICP
+
+This brings up the UHF (VHF) page on the DED.
+
+- in the scratch pad enter the frequency using the number buttons on the ICP
+- press ICP Enter button
+
+
