@@ -1,8 +1,14 @@
-F-16C Viper
-===========
+Rampstart
+=========
+
+A4-E Skyhawk
+------------
+
+F-16 Viper
+----------
 
 Engine Start
-------------
+^^^^^^^^^^^^
 
 .. NOTE::
    Unlike other airframes the Viper needs no ground power to spool up.
@@ -37,7 +43,7 @@ Front Panel
 
 
 System Start
-------------
+^^^^^^^^^^^^
 
 AVIONICS POWER
   - set MMC switch to MMC
@@ -77,66 +83,5 @@ AVIONICS POWER
 
 EXT LIGHTING
   - set FLASH STEADY switch to FLASH
-
-
-Taxi
-----
-
-- TAXI LANDING LIGHTS switch to TAXI
-- enable nose wheel steering
-
-"Kutaisi traffic, Uzi 9-1, taxi runway 07."
-
-- taxi
-
-Take Off
---------
-
-"Kutaisi control, Uzi 9-1, take off runway 07."
-
-IFF
-  - set IFF MASTER knob to NORM
-
-SNSR PWR
-  - set RDR ALT switch to RDR ALT
-
-EXT LIGHTING
-  - set ANTI-COLL knob to OFF
-
-- close canopy (``lctl-C`` by default)
-- set canopy handle (yellow spider) to DOWN
-- set ejection safety lever to ARMED
-
-- ensure speed brake is retracted
-- go full throttle
-- deactivate nose wheel steering
-- lift off
-- retract landing gear
-- set TAXI LANDING LIGHTS switch to OFF
-
-Land
-----
-
-"Kutaisi control, Uzi 9-1, coming in runway 07."
-
-- extract landing gear
-- set TAXI LANDING LIGHTS switch to LANDING
-
-"Kutaisi control, Uzi 9-1, on finals."
-
-- land
-
-EXT LIGHTING
-  - set ANTI-COLL knob to 1
-
-"Kutaisi control, Uzi 9-1, runway 07 clear."
-
-
-Fire Control Radar
-------------------
-   
-Further Reading
----------------
-
 
 

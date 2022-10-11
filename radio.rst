@@ -1,6 +1,8 @@
 Radio
 =====
 
+.. _radio skyhawk:
+
 A4-E Skyhawk
 ------------
 
@@ -9,6 +11,9 @@ A4-E Skyhawk
    :alt: A4-E Skyhawk UHF panel
 		 
    A4-E Skyhawk UHF panel (right leg)
+
+
+.. _radio viper:
 
 F-16 Viper
 ----------

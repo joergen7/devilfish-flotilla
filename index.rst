@@ -1,17 +1,19 @@
-DCS World
-=========
+Devilfish Flotilla
+==================
+
+Table of Contents
+-----------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
+   rampstart
+   basicop
+   comms
    light
    navigation
    radio
    refuel
-   huey
-   sabre
-   skyhawk
-   viper
    glossary
    about
    
