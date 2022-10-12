@@ -7,7 +7,7 @@ A4-E Skyhawk
 .. _rampstart viper:
 
 F-16C Viper
-----------
+-----------
 
 Engine Start
 ^^^^^^^^^^^^
