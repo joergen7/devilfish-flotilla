@@ -13,6 +13,9 @@ Glossary
 :DED:
   Data Entry Display. Part of the UFC.
 
+:DTT:
+  Dual Target Track. Radar track mode.
+
 :FCR:
   Fire Control Radar. FCR has two main modes: CRM and ACM.
 
@@ -50,13 +53,13 @@ Glossary
   Range-While-Search. Radar mode of operation under CRM.
 
 :SAM:
-  Situational Awareness Mode.
+  Situational Awareness Mode. Radar track mode.
   
 :SOI:
   Sensor Of Interest.
 
 :STT:
-  Single Target Track.
+  Single Target Track. Radar track mode.
 
 :TWS:
   Track-While-Scan. Radar mode of operation under CRM.

@@ -19,3 +19,14 @@ land      OFF       FLASH        BRT       LAND
    :height: 801
    :alt: light discipline state graph
 
+A4-E Skyhawk
+------------
+
+.. figure:: img/skyhawk_light_panel.jpg
+   :width: 15%
+   :alt: A4-E Skyhawk exterior light panel (right leg)
+
+   A4-E Skyhawk exterior light panel (right leg)
+
+F-16 Viper
+----------

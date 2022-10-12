@@ -57,6 +57,12 @@ Right Leg
   - set AN/ARA-63 MCL power switch to ON
   - select the ILS channel using the MCL channel selector switch
 
+.. figure:: img/skyhawk_ils_panel.jpg
+   :width: 30%
+   :alt: A4-E Skyhawk ILS panel (right leg)
+
+   A4-E Skyhawk ILS panel (right leg)
+
 .. _navigation viper:
 
 F-16 Viper

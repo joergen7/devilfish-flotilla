@@ -4,7 +4,9 @@ Rampstart
 A4-E Skyhawk
 ------------
 
-F-16 Viper
+.. _rampstart viper:
+
+F-16C Viper
 ----------
 
 Engine Start
@@ -61,6 +63,10 @@ SNSR PWR
 
 .. HINT::
    If the HUD hasn't come on automatically, turn up the ICP HUD symbology intensity knob.
+
+UFC
+  - on the latitude line in the DED press ICP enter
+  - on the longitude line in the DED press ICP enter
 
 IFF
   - set IFF MASTER knob to STBY

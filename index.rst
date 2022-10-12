@@ -10,6 +10,7 @@ Table of Contents
    rampstart
    basicop
    comms
+   fcr
    light
    navigation
    radio
