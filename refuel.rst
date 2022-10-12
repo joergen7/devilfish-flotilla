@@ -7,10 +7,12 @@ A4-E Skyhawk
 - enter the TACAN channel of the tanker (see :ref:`Navigation A4-E Skyhawk <navigation skyhawk>`)
 - enter the radio frequency of the tanker (see :ref:`Radio A4-E Skyhawk <radio skyhawk>`)
 - call "Intent to refuel"
+- set probe light switch to BRT
 - once under the tanker, call "Ready precontact"
 - fly steady with the probe in the basket
 - the tanker calls you "You are taking fuel"
 - the tanker calls you "Transfer complete"
+- set probe light switch to OFF
 
 F-16 Viper
 ----------
