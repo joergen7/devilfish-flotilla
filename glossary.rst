@@ -4,6 +4,9 @@ Glossary
 :ACM:
   Air Combat Mode. FCR main mode for ranges within 10nm.
 
+:ADA:
+   Air Defense Artillery
+
 :ADI:
   Attitude Direction Indicator. Artificial horizon.
 
@@ -37,11 +40,17 @@ Glossary
 :GCSC:
    Great Circle Steering Cue. "Tadpole".
 
+:HARM:
+   High-speed Anti Radiation Missile
+
 :HMCS:
   Helmet Mounted Cueing System.
 
 :HSI:
   Horizontal Situation Indicator.
+
+:HTS:
+   HARM Targeting System.
 
 :HUD:
   Heads-Up Display. Part of the UFC.
@@ -67,6 +76,9 @@ Glossary
 :PFLD:
   Pilot Fault List Display.
 
+:PPT:
+   Pre-Planned Threat.
+
 :RPM:
   Rotations Per Minute.
 
@@ -77,13 +89,22 @@ Glossary
   Range-While-Search. Radar mode of operation under CRM.
 
 :SAM:
-  Situational Awareness Mode. Radar track mode.
+  (i) Surface-to-Air Missile. (ii) Situational Awareness Mode. Radar track mode.
+
+:SEAD:
+   Suppression of Enemy Air Defense.
   
 :SOI:
   Sensor Of Interest.
 
 :STT:
   Single Target Track. Radar track mode.
+
+:TFR:
+   Terrain-Following Radar.
+
+:TGP:
+   Targeting Pod. Teapot.
 
 :TMS:
    Target Management Switch. Four-way switch left on the head of the stick.
