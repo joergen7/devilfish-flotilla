@@ -15,6 +15,7 @@ Table of Contents
    navigation
    radio
    refuel
+   dcs-vr
    glossary
    about
    
