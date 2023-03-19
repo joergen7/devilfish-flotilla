@@ -83,32 +83,32 @@ Graphics Settings
    * - Depth of Field
      - OFF
    * - Lens Effect
-	 - None
+     - None
    * - Motion Blur
-	 - OFF
+     - OFF
    * - Clouds
-	 - Low
+     - Low
    * - SSAA
-	 - OFF
+     - OFF
    * - SSLR
-	 - OFF
+     - OFF
    * - SSAO
-	 - OFF
+     - OFF
    * - Clutter/Grass
-	 - 0
+     - 0
    * - Forest Visibility
-	 - 30%
+     - 30%
    * - Forest Detail Factor
-	 - 0.3
+     - 0.3
    * - Scenery Detail Factor
-	 - 0.3
+     - 0.3
    * - Preload Radius
-	 - 100000
+     - 100000
    * - Chimney Smoke Density
-	 - 0
+     - 0
    * - Anisotropic Filtering
-	 - 4x
+     - 4x
    * - Terrain Objects Shadows
-	 - Off
+     - Off
    * - Cockpit Global Illumination
-	 - OFF
+     - OFF
