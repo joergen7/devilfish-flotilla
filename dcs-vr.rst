@@ -1,11 +1,7 @@
 Setting up VR in DCS
 ====================
 
-In this short guide I explain how I get reasonable performance in DCS using a Meta Quest 2.
-
-Enable ASW
-----------
-
+In this short guide I explain how I get reasonable performance in DCS using a Meta Quest 2. The major difference between the flat screen and VR is that on the flat screen we balance looks and performance, whereas on VR we stake everything on performance. The reason is that in VR any stutter, no matter how small, causes nausea. The VR headset maxes out at a frame rate of 72 frames per second. A setup for VR is viable only if it can deliver these 72 frames consistently.
 
 Quest Link
 ----------
@@ -86,3 +82,33 @@ Graphics Settings
      - OFF
    * - Depth of Field
      - OFF
+   * - Lens Effect
+	 - None
+   * - Motion Blur
+	 - OFF
+   * - Clouds
+	 - Low
+   * - SSAA
+	 - OFF
+   * - SSLR
+	 - OFF
+   * - SSAO
+	 - OFF
+   * - Clutter/Grass
+	 - 0
+   * - Forest Visibility
+	 - 30%
+   * - Forest Detail Factor
+	 - 0.3
+   * - Scenery Detail Factor
+	 - 0.3
+   * - Preload Radius
+	 - 100000
+   * - Chimney Smoke Density
+	 - 0
+   * - Anisotropic Filtering
+	 - 4x
+   * - Terrain Objects Shadows
+	 - Off
+   * - Cockpit Global Illumination
+	 - OFF
