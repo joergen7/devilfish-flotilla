@@ -12,7 +12,7 @@ Quest Link is the program that connects the VR headset with the PC. Herein it is
 - select the Quest Link tab
 - make sure the Quest Link switch is enabled
 - press Launch Quest Link
-- make sure Use Air Link is disabled
+- **make sure Use Air Link is disabled**
 - press Launch
 
 Start DCS in Multi-Threaded VR Mode
