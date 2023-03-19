@@ -48,8 +48,8 @@ Stand-Alone
 Graphics Settings
 ^^^^^^^^^^^^^^^^^
 
-.. list-table:: Graphics Settings
-   :widths: 25 25
+.. list-table::
+   :widths: 25 15
    :header-rows: 1
 				 
    * - Name
