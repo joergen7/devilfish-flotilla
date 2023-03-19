@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Devilfish Flotilla'
-copyright = u'2019'
+copyright = u'2019-2023'
 author = u'Waldt'
 
 # The short X.Y version
