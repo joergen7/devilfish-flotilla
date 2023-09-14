@@ -23,9 +23,6 @@ IFF
 SNSR PWR
   - set RDR ALT switch to RDR ALT
 
-EXT LIGHTING
-  - set ANTI-COLL knob to OFF
-
 - close canopy (``lctl-C`` by default)
 - set canopy handle (yellow spider) to DOWN
 - set ejection safety lever to ARMED
@@ -43,7 +40,5 @@ Land
 - set TAXI LANDING LIGHTS switch to LANDING
 - land
 
-EXT LIGHTING
-  - set ANTI-COLL knob to 1
 
 

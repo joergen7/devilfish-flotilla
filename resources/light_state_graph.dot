@@ -1,0 +1,26 @@
+digraph G {
+
+init     [shape=none, label=""];
+park     [shape=box];
+hold     [shape=box];
+taxi     [shape=box];
+takeoff  [shape=box];
+outbound [shape=box];
+combat   [shape=box];
+approach [shape=box];
+land     [shape=box];
+
+init     -> park     [label="anti-coll: 1\nflash steady: FLASH\nwing/tail: OFF\nlanding taxi lights: OFF"];
+park     -> hold     [label="flash steady: STEADY\nwing/tail: BRT"];
+hold     -> taxi     [label="flash steady: FLASH\nlanding taxi lights: TAXI"];
+taxi     -> takeoff  [];
+takeoff  -> outbound [label="landing taxi lights: OFF"];
+outbound -> combat   [label="fence-in\nanti-coll: OFF\nwing/tail: OFF"];
+combat   -> approach [label="anti-coll: 1\nwing/tail: BRT"];
+approach -> land     [label="landing taxi lights: LANDING"];
+land     -> taxi     [];
+taxi     -> hold     [label="flash steady: STEADY\nlanding taxi lights: OFF"];
+hold     -> park     [label="flash steady: FLASH\nwing/tail: OFF"];
+
+
+}

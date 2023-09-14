@@ -5,7 +5,7 @@ Table of Contents
 -----------------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    rampstart
    basicop
@@ -15,6 +15,7 @@ Table of Contents
    navigation
    radio
    refuel
+   weapon
    dcs-vr
    glossary
    about
