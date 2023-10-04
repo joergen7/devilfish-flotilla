@@ -16,7 +16,7 @@ Table of Contents
    radio
    refuel
    weapon
-   dcs-vr
+   dcs
    glossary
    about
    

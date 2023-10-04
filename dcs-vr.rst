@@ -1,4 +1,4 @@
-Setting up VR in DCS
+Virtual Reality (VR)
 ====================
 
 This short guide explains how to set up DCS for VR using a Meta Quest 2. On the flat screen we balance looks and performance. In contrast, on VR we stake everything on performance. The reason is that in VR any stutter, no matter how small, causes nausea. The VR headset maxes out at a frame rate of 72 frames per second. Thus, a setup for VR is viable only if it delivers these 72 frames consistently.
