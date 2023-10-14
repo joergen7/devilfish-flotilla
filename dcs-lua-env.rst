@@ -61,3 +61,12 @@ do-script
    assert( loadfile( "[external script]" ))()
 
 Use this method to load a script that changes often, e.g., a mission-related script.
+
+Logging
+-------
+
+The ``log`` object provides the functionality to write to to ``Logs/dcs.log``.
+
+.. code-block:: lua
+
+   log.write( "source", log.INFO, "message" )
