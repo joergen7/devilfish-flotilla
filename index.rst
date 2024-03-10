@@ -17,6 +17,7 @@ Table of Contents
    refuel
    weapon
    dcs
+   mission
    glossary
    about
    
